@@ -1,0 +1,8 @@
+{
+    "require": {
+        "php": ">=8.1",
+        "voku/simple_html_dom": "^4.8",
+        "guzzlehttp/guzzle": "^7.5",
+        "symfony/dom-crawler": "^6.1"
+    }
+}
